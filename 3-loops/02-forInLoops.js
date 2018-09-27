@@ -21,7 +21,6 @@ for(cat in catArray){
 
 let firstLetter = 0; i = name.length;  
 
-for (firstLetter in )
-    console.log()
+
 
 
